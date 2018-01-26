@@ -1,4 +1,5 @@
 # Loan rate calculation system
+[![Build Status](https://travis-ci.org/grant-burgess/loan-rate-service.svg?branch=master)](https://travis-ci.org/grant-burgess/loan-rate-service)
 
 The loan rate calculation system calculates a monthly and total repayment based on the lenders rate.
 The program takes two input parameters, the first is the market data file and the second is the loan amount.
