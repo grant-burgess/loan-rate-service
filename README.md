@@ -30,4 +30,3 @@ Rate: $7.1%
 Monthly repayment: £29.82
 Total repayment: £1073.51
 ```
-
